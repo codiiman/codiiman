@@ -23,7 +23,7 @@
 - **Solana Programs** — Anchor framework (v0.30+), PDAs, CPI, account validation, error handling, Audit
 - **DeFi Primitives** — AMMs, lending/borrowing, yield optimizers, staking
 - **Real-World Assets (RWA)** — Tokenization logic, compliance hooks, oracle integrations, fractional ownership
-- **Memecoin & Launch Tools** — Fair launch mechanics, bonding curves, anti-bot/snipe protection
+- **Memecoin & Launch Tools** — Fair launch mechanics, bonding curves, on-chain trading program
 
 ### 🔭 What I'm Focusing on Now
 **Smart Contract** for **Memecoin**, **DeFi**, **RWA** projects
