@@ -16,10 +16,10 @@
 </a>
 
 ### 🛠️ Expertise
-![Solana](https://img.shields.io/badge/Solana-00FFA3?style=flat&logo=solana&logoColor=black)
+<!-- ![Solana](https://img.shields.io/badge/Solana-00FFA3?style=flat&logo=solana&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Anchor](https://img.shields.io/badge/Anchor-0078D4?style=flat&logo=anchor&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) -->
 - **Solana Programs** — Anchor framework (v0.30+), PDAs, CPI, account validation, error handling, Audit
 - **DeFi Primitives** — AMMs, lending/borrowing, yield optimizers, staking
 - **Real-World Assets (RWA)** — Tokenization logic, compliance hooks, oracle integrations, fractional ownership
@@ -28,10 +28,10 @@
 ### 🔭 What I'm Focusing on Now
 **Smart Contract** for **Memecoin**, **DeFi**, **RWA** projects
 
-
+<!-- 
 ### 🏗️ What I've Built
 - Developed and deployed multiple **DeFi protocols** (DEX routers, lending pools, yield farms) — some with TVL in production
 - Built **RWA tokenization** contracts with on-chain KYC/AML hooks and oracle price feeds
 - Deployed on-chain program for **Trading platforms**
-- **Audited** & **Optimized** existing Anchor programs
+- **Audited** & **Optimized** existing Anchor programs -->
 
