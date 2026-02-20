@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 
-### 🛠️ Expertise
+### Expertise
 <!-- ![Solana](https://img.shields.io/badge/Solana-00FFA3?style=flat&logo=solana&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Anchor](https://img.shields.io/badge/Anchor-0078D4?style=flat&logo=anchor&logoColor=white)
@@ -25,7 +25,7 @@
 - **Real-World Assets (RWA)** — Tokenization logic, compliance hooks, oracle integrations, fractional ownership
 - **Memecoin & Launch Tools** — Fair launch mechanics, bonding curves, on-chain trading program
 
-### 🔭 What I'm Focusing on Now
+### What I'm Focusing on Now
 **Smart Contract** for **Memecoin**, **DeFi**, **RWA** projects
 
 <!-- 
